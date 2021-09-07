@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationTest</string>
+    <string name="rotate">Rotate</string>
+    <string name="move">Move</string>
+    <string name="scale">Scale</string>
+    <string name="fade">Fade</string>
+    <string name="change_color">Change color</string>
+    <string name="do_everything">Do everything</string>
+</resources>
