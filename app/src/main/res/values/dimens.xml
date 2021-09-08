@@ -2,4 +2,5 @@
 <resources>
     <dimen name="image_bottom_margin">100dp</dimen>
     <dimen name="image_size">50dp</dimen>
+    <dimen name="image_max_size">150dp</dimen>
 </resources>

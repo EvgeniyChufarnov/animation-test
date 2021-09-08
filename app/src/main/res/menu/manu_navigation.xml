@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/object_animator_item"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="@string/object_animator" />
+
+    <item
+        android:id="@+id/layout_animation_item"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="@string/layout_animation" />
+</menu>
